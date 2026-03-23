@@ -85,4 +85,4 @@
 4. 在 filter 里面输入`wallet/wallet/get`,选择 `status` 为 `200` 的记录
 
 5. 点击记录，往下拉，找到 `X-Rpc-Combo_token` ，复制对应的值，成功获取 token
-
+1
